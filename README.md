@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A simple tic-tac-toe game developed using Android Studio
+A simple tic-tac-toe mobile game developed using Android Studio. 
